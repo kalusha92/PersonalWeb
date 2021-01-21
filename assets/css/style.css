@@ -5,6 +5,7 @@
     width: 30px;
     color: black;
     margin-left: 10px;
+    overflow: hidden;
 }
 
 .carousel-item{
