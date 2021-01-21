@@ -1,6 +1,10 @@
-.nav-item i{
-    width: 40px;
+*{
+    overflow-x: hidden;
+}
+.nav-item  i{
+    width: 30px;
     color: black;
+    margin-left: 10px;
 }
 
 .carousel-item{
@@ -72,6 +76,29 @@
     text-decoration: none;
     list-style: none;
     padding-bottom: 100px;
+}
+.Pblog{
+    text-align: left;
+    font-size: 24px;
+    font-family: sans-serif;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.Bheader{
+    font-family: 'Nanum Brush Script', cursive;
+    text-transform: uppercase;
+    font-weight: 200;
+    margin-bottom: 30px;
+    overflow: hidden;
+
+}
+.blogLink{
+    font-weight: bold;
+    color: black;
+}
+.col-lg-4 .col-md-4 .col-12 .d-block .mb-4 .h-100 , h5{
+    overflow: hidden;
+
 }
 @media only screen and (max-width: 767px){
     .navbar-nav .ml-auto{
